@@ -1,2 +1,4 @@
 This is the first file 
 Add another file to the folder and commit it
+Add another file to the folder and commit it 
+Add anotehr file to the folder and commit it
